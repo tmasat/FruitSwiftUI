@@ -16,6 +16,7 @@
 		126AAF4F257AFDBF0018E990 /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 126AAF4E257AFDBF0018E990 /* OnboardingView.swift */; };
 		126AAF54257B0D730018E990 /* FruitModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 126AAF53257B0D730018E990 /* FruitModel.swift */; };
 		126AAF59257B111B0018E990 /* FruitData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 126AAF58257B111B0018E990 /* FruitData.swift */; };
+		126AAF5C257B1AD00018E990 /* FruitRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 126AAF5B257B1AD00018E990 /* FruitRowView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		126AAF4E257AFDBF0018E990 /* OnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
 		126AAF53257B0D730018E990 /* FruitModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitModel.swift; sourceTree = "<group>"; };
 		126AAF58257B111B0018E990 /* FruitData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitData.swift; sourceTree = "<group>"; };
+		126AAF5B257B1AD00018E990 /* FruitRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitRowView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 			children = (
 				126AAF47257AF23E0018E990 /* FruitCardView.swift */,
 				126AAF4B257AFB450018E990 /* StartButtonView.swift */,
+				126AAF5B257B1AD00018E990 /* FruitRowView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -187,6 +190,7 @@
 			files = (
 				126AAF59257B111B0018E990 /* FruitData.swift in Sources */,
 				126AAF48257AF23E0018E990 /* FruitCardView.swift in Sources */,
+				126AAF5C257B1AD00018E990 /* FruitRowView.swift in Sources */,
 				126AAF4C257AFB450018E990 /* StartButtonView.swift in Sources */,
 				126AAF35257AEF420018E990 /* ContentView.swift in Sources */,
 				126AAF4F257AFDBF0018E990 /* OnboardingView.swift in Sources */,
